@@ -110,4 +110,7 @@ Here’s a clean, well-formatted **AWS Handbook** guide for deploying a Maven we
 ***
 
 **Congratulations!** If your webpage loads, you’ve successfully deployed your Maven web project 🥳.  
+
 **IMPORTANT:** Always terminate your instance and end the lab after deployment to avoid unnecessary charges or usage.
+https://chatgpt.com/share/692132cd-9d14-8002-9f28-664658480158
+https://www.perplexity.ai/search/explain-in-brief-about-these-t-41YPLr_aRSuuPbi9usoXIQ#4
